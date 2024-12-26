@@ -1,0 +1,17 @@
+
+Books Dataset Summary:
+Total Books: 271379
+Unique Authors: 102026
+Year Range: 0-2050
+Missing Values: {'ISBN': 0, 'Title': 0, 'Author': 2, 'Year': 0, 'Publisher': 2, 'Image_URL_S': 0, 'Image_URL_M': 0, 'Image_URL_L': 0}
+
+Ratings Dataset Summary:
+Total Ratings: 1149780
+Unique Users: 105283
+Rating Distribution: {0: 716109, 8: 103736, 10: 78610, 7: 76457, 9: 67541, 5: 50974, 6: 36924, 4: 8904, 3: 5996, 2: 2759, 1: 1770}
+Average Rating: 2.87
+
+Users Dataset Summary:
+Total Users: 278858
+Age Range: 0.0-244.0
+Users with Age: 168096
